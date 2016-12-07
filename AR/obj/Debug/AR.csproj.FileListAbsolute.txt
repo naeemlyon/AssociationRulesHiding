@@ -1,0 +1,12 @@
+H:\AR\bin\Debug\AR.exe.config
+H:\AR\bin\Debug\AR.exe
+H:\AR\bin\Debug\AR.pdb
+H:\AR\bin\Debug\Microsoft.Office.Interop.Excel.dll
+H:\AR\bin\Debug\Microsoft.Office.Interop.Excel.xml
+H:\AR\obj\Debug\ResolveAssemblyReference.cache
+H:\AR\obj\Debug\AR.csproj.ResolveComReference.cache
+H:\AR\obj\Debug\AR.Form1.resources
+H:\AR\obj\Debug\AR.Properties.Resources.resources
+H:\AR\obj\Debug\AR.csproj.GenerateResource.Cache
+H:\AR\obj\Debug\AR.exe
+H:\AR\obj\Debug\AR.pdb
